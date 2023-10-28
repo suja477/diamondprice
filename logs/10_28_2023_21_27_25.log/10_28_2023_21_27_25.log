@@ -1,0 +1,4 @@
+[ 2023-10-28 21:27:48,338 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2023-10-28 21:27:48,338 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-10-28 21:27:51,225 ] 27 root - INFO - Data Ingestion method starts
+[ 2023-10-28 21:27:51,228 ] 43 root - INFO - Exception occured at Data Ingestion stage
