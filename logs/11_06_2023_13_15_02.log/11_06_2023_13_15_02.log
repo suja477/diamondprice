@@ -1,0 +1,29 @@
+[ 2023-11-06 13:15:14,717 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2023-11-06 13:15:14,718 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-11-06 13:15:57,428 ] 27 root - INFO - Data Ingestion method starts
+[ 2023-11-06 13:15:57,579 ] 30 root - INFO - Dataset read as pandas dataframe
+[ 2023-11-06 13:15:58,367 ] 33 root - INFO - Train test split
+[ 2023-11-06 13:15:59,197 ] 38 root - INFO - Ingestion of data is completed
+[ 2023-11-06 13:15:59,365 ] 79 root - INFO - Read train and test data completed
+[ 2023-11-06 13:15:59,374 ] 80 root - INFO - Train Dataframe Head : 
+       id  carat        cut color clarity  depth  table     x     y     z  price
+0  110674   1.21    Premium     H    VVS2   61.1   60.0  6.86  6.88  4.21  10333
+1   14509   1.04    Premium     D     SI1   60.0   62.0  6.60  6.57  3.95   5853
+2  143147   1.00    Premium     G    VVS2   59.3   60.0  6.51  6.47  3.84   7858
+3  102224   0.31  Very Good     H     VS2   58.5   57.0  4.45  4.47  2.62    494
+4  100148   0.70       Good     F     SI1   60.1   61.0  5.76  5.80  3.47   2447
+[ 2023-11-06 13:15:59,378 ] 81 root - INFO - Test Dataframe Head  : 
+       id  carat        cut color clarity  depth  table     x     y     z  price
+0   79585   1.59    Premium     G     VS2   61.3   60.0  7.47  7.43  4.57  13278
+1  161670   0.34    Premium     E     VS2   62.5   58.0  4.45  4.49  2.79    719
+2  117250   0.81    Premium     J     VS2   62.2   57.0  5.91  5.86  3.66   1968
+3  167122   0.54  Very Good     E     SI1   62.4   58.0  5.20  5.23  3.26   1628
+4   63292   0.71    Premium     E     VS2   60.2   59.0  5.76  5.83  3.48   2949
+[ 2023-11-06 13:15:59,378 ] 83 root - INFO - Obtaining preprocessing object
+[ 2023-11-06 13:15:59,378 ] 28 root - INFO - Data Transformation initiated
+[ 2023-11-06 13:15:59,378 ] 38 root - INFO - Pipeline Initiated
+[ 2023-11-06 13:15:59,641 ] 100 root - INFO - Applying preprocessing object on training and testing datasets.
+[ 2023-11-06 13:15:59,655 ] 112 root - INFO - Preprocessor pickle file saved
+[ 2023-11-06 13:15:59,660 ] 24 root - INFO - Splitting Dependent and Independent variables from train and test data
+[ 2023-11-06 13:16:00,320 ] 42 root - INFO - Model Report : {'LinearRegression': 0.936940083022159, 'Lasso': 0.9369436512882914, 'Ridge': 0.9369394351651016, 'Elasticnet': 0.8549301536700411}
+[ 2023-11-06 13:16:00,320 ] 55 root - INFO - Best Model Found , Model Name : Lasso , R2 Score : 0.9369436512882914
