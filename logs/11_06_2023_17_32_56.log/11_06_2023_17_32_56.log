@@ -3,3 +3,5 @@
 [ 2023-11-06 17:32:58,041 ] 224 werkzeug - WARNING -  * Debugger is active!
 [ 2023-11-06 17:32:58,045 ] 224 werkzeug - INFO -  * Debugger PIN: 901-655-976
 [ 2023-11-06 17:34:53,563 ] 224 werkzeug - INFO - 127.0.0.1 - - [06/Nov/2023 17:34:53] "GET /predict HTTP/1.1" 200 -
+[ 2023-11-06 18:15:20,316 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\ipykernel\\__init__.py', reloading
+[ 2023-11-06 18:15:20,322 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\ipykernel\\connect.py', reloading

@@ -1,0 +1,22 @@
+[ 2023-11-06 18:15:22,606 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2023-11-06 18:15:22,607 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-11-06 18:15:24,543 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-06 18:15:24,547 ] 224 werkzeug - INFO -  * Debugger PIN: 901-655-976
+[ 2023-11-06 18:15:24,581 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\shortcuts\\prompt.py', reloading
+[ 2023-11-06 18:15:24,834 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\history.py', reloading
+[ 2023-11-06 18:15:24,853 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\clipboard\\__init__.py', reloading
+[ 2023-11-06 18:15:24,864 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\clipboard\\in_memory.py', reloading
+[ 2023-11-06 18:15:24,878 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\clipboard\\base.py', reloading
+[ 2023-11-06 18:15:24,894 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\buffer.py', reloading
+[ 2023-11-06 18:15:24,966 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\layout\\layout.py', reloading
+[ 2023-11-06 18:15:24,985 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\enums.py', reloading
+[ 2023-11-06 18:15:24,991 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\application\\__init__.py', reloading
+[ 2023-11-06 18:15:24,997 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\application\\application.py', reloading
+[ 2023-11-06 18:15:25,134 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\layout\\dummy.py', reloading
+[ 2023-11-06 18:15:25,155 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\filters\\__init__.py', reloading
+[ 2023-11-06 18:15:25,159 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\filters\\app.py', reloading
+[ 2023-11-06 18:15:25,166 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\filters\\cli.py', reloading
+[ 2023-11-06 18:15:25,173 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\filters\\utils.py', reloading
+[ 2023-11-06 18:15:25,181 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\prompt_toolkit\\filters\\base.py', reloading
+[ 2023-11-06 18:15:25,222 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\IPython\\core\\crashhandler.py', reloading
+[ 2023-11-06 18:15:25,282 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Suja4\\anaconda3\\anacondanew\\Lib\\site-packages\\IPython\\core\\displayhook.py', reloading
